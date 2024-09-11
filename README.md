@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Knight
 - 👀 I’m interested in Cybersecurity and Cloud Engineering
-- 🌱 I’m currently learning Google Cypersecuirty Professional certificate and Google Associate Cloud Engineer certification
+- 🌱 I recently completed Google Cybersecuirty Professional certificate and Google Associate Cloud Engineer training
 - 💞️ I’m looking to collaborate on Learning, Networking, Projects for experience and Jobs
 - 📫 How to reach me: www.linkedin.com/in/knight-scott
 - 😄 Pronouns: he/him
