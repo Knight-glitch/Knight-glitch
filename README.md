@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity and Cloud Engineering
 - 🌱 I recently completed Google Cybersecuirty Professional certificate and Google Associate Cloud Engineer training
 - 💞️ I’m looking to collaborate on Learning, Networking, Projects and CTFs for experience and Jobs
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/knight-scott) or [Persona Site](https://sites.google.com/view/knightcyberprojects/about)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/knight-scott) or [Personal Site](https://sites.google.com/view/knightcyberprojects/about)
 - 😄 Pronouns: he/him
 
 <!---
